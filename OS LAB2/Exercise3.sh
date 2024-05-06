@@ -1,0 +1,2 @@
+name=$(hostname)
+echo "$name"
